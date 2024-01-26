@@ -94,7 +94,7 @@ class MyApp extends StatelessWidget {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Image.asset(
-                            'assets/google_drive_icon.png',
+                            'assets/google.png',
                             width: 20,
                             height: 20,
                           ),
